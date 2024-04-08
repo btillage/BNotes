@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+firebaseAdminInit.js
+noteapp-416305-firebase-adminsdk-w30oc-1d439ea687.json

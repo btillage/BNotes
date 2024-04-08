@@ -1,5 +1,5 @@
 const bcrypt = require('bcrypt');
-const pool = require('../db'); // Ensure correct path
+const pool = require('../routes/db'); // Ensure correct path
 
 exports.registerUser = async (req, res) => {
   const { username, password } = req.body;
